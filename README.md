@@ -10,3 +10,4 @@ M2-Embedded_UltrasonicSoundSensor
 
 ![out3](https://user-images.githubusercontent.com/94118726/144073364-fbec5d54-7aa8-49b3-8a69-fa51d0d2b5e5.jpg)
 [![CI](https://github.com/Pradnya579/M2-Embedded_UltrasonicSoundSensor/actions/workflows/main.yml/badge.svg)](https://github.com/Pradnya579/M2-Embedded_UltrasonicSoundSensor/actions/workflows/main.yml)
+[![Contribution Check - Git Inspector](https://github.com/Pradnya579/M2-Embedded_UltrasonicSoundSensor/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Pradnya579/M2-Embedded_UltrasonicSoundSensor/actions/workflows/gitinspector.yml)
