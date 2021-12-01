@@ -22,3 +22,16 @@ see the same value for this calculation as well.
 #### Step 3 : The values and outputs for the “obstacle detected” will be constantly
 checked and rechecked to make sure the angles determine the correct obstacle.
 #### Step4 : Adding Audio to the Ultrasonic Sensors.
+
+## Testing cases
+
+| Average Speed(m/s)                    | 0.8                           | 1.5    | 2.0    |
+| ----------------- | -----------------------|-------------|---------|
+| Mean RMS error (cm)* | 19.4  |12.7  |10.2|
+|SD** |11.2   |14.3  | 13.4|
+|Sensing error (%) | 5.0 | 1.6| 1.0|
+|----------------------------------------------------------|
+
+
+#### RMS error : Root mean square error between actual and sensing distance.
+#### SD** : Standard deviation of the RMS errors.
